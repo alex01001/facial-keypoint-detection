@@ -5,4 +5,4 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 
 
 
-![Facial key-points](facial key points.png)
+![Facial key-points](facial_key_points.png)
